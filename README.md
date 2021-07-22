@@ -1,4 +1,9 @@
-### Hallo Leute! 👋
+Brazilian experienced in software development and leading technology teams in large companies, now looking for new challenges in Germany.
+
+I have 16 years of experience in technology being the last 12 years in the financial market. 
+I worked from 2013 to 2020 as Systems Manager at Banco Panamericano in São Paulo, Brazil, leading Project Management (Agile and Waterfall) and Software Development teams in several areas of the company with direct teams of up to 30 direct professionals and over 50 indirect professionals. I also have experience working as a Project Manager and Systems Developer based on Cloud Environment (CGP, AWS, Digital Ocean, Heroku, Surge, ...).
+I have PMP certification issued by PMI and MCPD by Microsoft.
+
 
 <!--
 **pedropauloreis/pedropauloreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
